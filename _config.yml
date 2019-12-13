@@ -1,11 +1,11 @@
 # Site settings
 author: Dwayne McFarlane
-title: 
+title: The Long Journey Accelerated 
 header-img: img/home-bg.png
 email: dwaynemcfarlaneny@gmail.com
 copyright_name: Dwayne McFarlane
 description: > # this means to ignore newlines until "baseurl:"
-  
+  To code and conquer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dwaine18
